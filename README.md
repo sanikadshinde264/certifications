@@ -25,9 +25,9 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 ### 30 Days MasterClass in Data Analytics
 
-**Provider:** NoviTech R&D Private Limited
-**Duration:** 08 June 2026 – 16 July 2026
-**Certificate ID:** NT_B1DAHIN209
+**Provider:** NoviTech R&D Private Limited<br>
+**Duration:** 08 June 2026 – 16 July 2026<br>
+**Certificate ID:** NT_B1DAHIN209<br>
 **Category:** Data Analytics
 
 #### Skills & Topics
@@ -45,9 +45,9 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 ### 📈 Deloitte Data Analytics Job Simulation
 
-**Provider:** Deloitte / Forage
-**Completion Date:** 21 January 2026
-**Simulation Period:** November 2025 – January 2026
+**Provider:** Deloitte / Forage<br>
+**Completion Date:** 21 January 2026<br>
+**Simulation Period:** November 2025 – January 2026<br>
 **Category:** Data Analytics
 
 #### Practical Tasks
@@ -64,10 +64,10 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 ### 📊 Basics of Microsoft Power BI
 
-**Provider:** UniAthena in partnership with Cambridge International Qualifications, UK
-**Date:** 22 March 2025
-**Category:** Data Analytics & Business Intelligence
-**Verification:** Blockchain Verified
+**Provider:** UniAthena in partnership with Cambridge International Qualifications, UK<br>
+**Date:** 22 March 2025<br>
+**Category:** Data Analytics & Business Intelligence<br>
+**Verification:** Blockchain Verified<br>
 **Blockchain ID:** 9255-9942-6926
 
 #### Course
@@ -80,9 +80,9 @@ Successfully completed the **Basics of Microsoft Power BI** course, developing f
 
 ### 📊 30-Days Power BI Micro Course
 
-**Provider:** Satish Dhawale — E-Learning Platform
-**Instructor:** Satish Dhawale
-**Completion Date:** 19 May 2025
+**Provider:** Satish Dhawale — E-Learning Platform<br>
+**Instructor:** Satish Dhawale<br>
+**Completion Date:** 19 May 2025<br>
 **Category:** Power BI & Data Analytics
 
 #### Course
@@ -97,8 +97,8 @@ Successfully completed the **30-Days Power BI Micro Course**, focused on develop
 
 ### 30-Day SQL Micro Course
 
-**Provider:** Satish Dhawale — E-Learning Platform
-**Duration:** 21 April 2025 – 21 May 2025
+**Provider:** Satish Dhawale — E-Learning Platform<br>
+**Duration:** 21 April 2025 – 21 May 2025<br>
 **Category:** SQL & Database
 
 #### Skills & Topics
@@ -121,10 +121,10 @@ Successfully completed the **30-Days Power BI Micro Course**, focused on develop
 
 ### Java (Basic) — HackerRank
 
-**Provider:** HackerRank
-**Skill:** Java (Basic)
-**Date:** 19 August 2023
-**Category:** Java & Programming
+**Provider:** HackerRank<br>
+**Skill:** Java (Basic)<br>
+**Date:** 19 August 2023<br>
+**Category:** Java & Programming<br>
 **Certificate ID:** A3165CDC447B
 
 #### Achievement
@@ -139,10 +139,10 @@ Successfully cleared the **Java (Basic)** skill assessment on HackerRank, demons
 
 ### CSS — HackerRank
 
-**Provider:** HackerRank
-**Skill:** CSS
-**Date:** 19 August 2023
-**Category:** Web Development
+**Provider:** HackerRank<br>
+**Skill:** CSS<br>
+**Date:** 19 August 2023<br>
+**Category:** Web Development<br>
 **Certificate ID:** F4D00A6E1AC0
 
 #### Achievement
@@ -157,11 +157,11 @@ Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating f
 
 ### Presentation Skills Course
 
-**Provider:** TCS iON — Tata Consultancy Services
-**Start Date:** 14 August 2023
-**End Date:** 23 August 2023
-**Certificate Date:** 23 August 2023
-**Certificate ID:** 66756-24889395-1016
+**Provider:** TCS iON — Tata Consultancy Services<br>
+**Start Date:** 14 August 2023<br>
+**End Date:** 23 August 2023<br>
+**Certificate Date:** 23 August 2023<br>
+**Certificate ID:** 66756-24889395-1016<br>
 **Category:** Professional Skills
 
 #### Topics Covered
@@ -181,12 +181,12 @@ Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating f
 
 ## 🤖 Data Science & Artificial Intelligence Internship
 
-**Company:** RacksonsIT Developers Private Limited
-**Role:** Data Science & Artificial Intelligence Intern
-**Type:** Industrial Training Internship
-**Duration:** 01 June 2025 – 15 July 2025
-**Certificate Date:** 15 July 2025
-**Location:** Ichalkaranji, Maharashtra
+**Company:** RacksonsIT Developers Private Limited<br>
+**Role:** Data Science & Artificial Intelligence Intern<br>
+**Type:** Industrial Training Internship<br>
+**Duration:** 01 June 2025 – 15 July 2025<br>
+**Certificate Date:** 15 July 2025<br>
+**Location:** Ichalkaranji, Maharashtra<br>
 **Category:** Internship
 
 #### Internship
@@ -201,11 +201,11 @@ The internship provided practical exposure to **Data Science, Artificial Intelli
 
 ## 🐍 Python & Machine Learning Internship
 
-**Company:** iGAP Technologies Pvt. Ltd.
-**Role:** Python & Machine Learning Intern
-**Duration:** 12 June 2023 – 21 July 2023
-**Certificate Date:** 21 July 2023
-**Location:** Kolhapur, Maharashtra
+**Company:** iGAP Technologies Pvt. Ltd.<br>
+**Role:** Python & Machine Learning Intern<br>
+**Duration:** 12 June 2023 – 21 July 2023<br>
+**Certificate Date:** 21 July 2023<br>
+**Location:** Kolhapur, Maharashtra<br>
 **Category:** Internship
 
 #### Internship
@@ -222,15 +222,15 @@ During the internship, demonstrated **punctuality, dedication, strong learning a
 
 ## 📄 AI Healthcare Chatbot Guidance Application
 
-**Author:** Sanika Deepak Shinde
-**Journal:** International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)
-**Volume:** 06
-**Issue:** 03
-**Publication:** March 2024
-**Paper ID:** IRJMETS60300060774
-**Certificate Reference:** IRJMETS/Certificate/Volume 06/Issue 03/60300060774
-**Certificate Date:** 16 March 2024
-**e-ISSN:** 2582-5208
+**Author:** Sanika Deepak Shinde<br>
+**Journal:** International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)<br>
+**Volume:** 06<br>
+**Issue:** 03<br>
+**Publication:** March 2024<br>
+**Paper ID:** IRJMETS60300060774<br>
+**Certificate Reference:** IRJMETS/Certificate/Volume 06/Issue 03/60300060774<br>
+**Certificate Date:** 16 March 2024<br>
+**e-ISSN:** 2582-5208<br>
 **Category:** Research Publication
 
 ### Publication
@@ -243,15 +243,15 @@ Published the research paper **"AI Healthcare Chatbot Guidance Application"** in
 
 ## 📄 A Review of AI Healthcare Guidance Chatbot
 
-**Author:** Sanika Deepak Shinde
-**Journal:** International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)
-**Volume:** 05
-**Issue:** 10
-**Publication:** October 2023
-**Paper ID:** IRJMETS51000032036
-**Certificate Reference:** IRJMETS/Certificate/Volume 05/Issue 10/51000032036
-**Certificate Date:** 17 October 2023
-**e-ISSN:** 2582-5208
+**Author:** Sanika Deepak Shinde<br>
+**Journal:** International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)<br>
+**Volume:** 05<br>
+**Issue:** 10<br>
+**Publication:** October 2023<br>
+**Paper ID:** IRJMETS51000032036<br>
+**Certificate Reference:** IRJMETS/Certificate/Volume 05/Issue 10/51000032036<br>
+**Certificate Date:** 17 October 2023<br>
+**e-ISSN:** 2582-5208<br>
 **Category:** Research Publication
 
 ### Publication
@@ -297,10 +297,8 @@ It demonstrates my commitment to **continuous learning, technical skill developm
 
 ## 🔗 Connect With Me
 
-📧 **Email:** [sanikadshinde264@gmail.com](mailto:sanikadshinde264@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/sanikadshinde264](https://www.linkedin.com/in/sanikadshinde264)
-
+📧 **Email:** [sanikadshinde264@gmail.com](mailto:sanikadshinde264@gmail.com)<br>
+💼 **LinkedIn:** [linkedin.com/in/sanikadshinde264](https://linkedin.com/in/sanikadshinde264)<br>
 💻 **GitHub:** [github.com/sanikadshinde264](https://github.com/sanikadshinde264)
 
 ---
