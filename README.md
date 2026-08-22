@@ -39,7 +39,7 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 * Pattern and Trend Analysis
 * Data-Driven Decision Making
 
-📄 **Certificate:** [View Certificate](./data-analytics/NoviTech_30_Days_MasterClass_Data_Analytics.pdf)
+📄 **Certificate:** [View Certificate](./NoviTech_30_Days_MasterClass_Data_Analytics.pdf)
 
 ---
 
@@ -58,7 +58,7 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 * Business-Oriented Problem Solving
 * Data-Driven Analysis
 
-📄 **Certificate:** [View Certificate](./data-analytics/Deloitte_Forage_Data_Analytics_Job_Simulation.pdf)
+📄 **Certificate:** [View Certificate](./Deloitte_Forage_Data_Analytics_Job_Simulation.pdf)
 
 ---
 
@@ -74,7 +74,7 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 Successfully completed the **Basics of Microsoft Power BI** course, developing foundational knowledge of Power BI and business intelligence.
 
-📄 **Certificate:** [View Certificate](./data-analytics/UniAthena_Basics_of_Microsoft_Power_BI.pdf)
+📄 **Certificate:** [View Certificate](./UniAthena_Basics_of_Microsoft_Power_BI.pdf)
 
 ---
 
@@ -89,7 +89,7 @@ Successfully completed the **Basics of Microsoft Power BI** course, developing f
 
 Successfully completed the **30-Days Power BI Micro Course**, focused on developing practical knowledge of Power BI and data analytics.
 
-📄 **Certificate:** [View Certificate](./data-analytics/Satish_Dhawale_30_Days_Power_BI_Micro_Course.pdf)
+📄 **Certificate:** [View Certificate](./Satish_Dhawale_30_Days_Power_BI_Micro_Course.pdf)
 
 ---
 
@@ -113,7 +113,7 @@ Successfully completed the **30-Days Power BI Micro Course**, focused on develop
 * Subqueries
 * Data Analysis
 
-📄 **Certificate:** [View Certificate](./sql/Statish_Dhawale_30_Day_SQL_Micro_Course.pdf)
+📄 **Certificate:** [View Certificate](./Statish_Dhawale_30_Day_SQL_Micro_Course.pdf)
 
 ---
 
@@ -131,7 +131,7 @@ Successfully completed the **30-Days Power BI Micro Course**, focused on develop
 
 Successfully cleared the **Java (Basic)** skill assessment on HackerRank, demonstrating foundational knowledge of Java programming and problem-solving.
 
-📄 **Certificate:** [View Certificate](./java/HackerRank_Java_Basic_Certification.pdf)
+📄 **Certificate:** [View Certificate](./HackerRank_Java_Basic_Certification.pdf)
 
 ---
 
@@ -149,7 +149,7 @@ Successfully cleared the **Java (Basic)** skill assessment on HackerRank, demons
 
 Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating foundational knowledge of CSS and web page styling.
 
-📄 **Certificate:** [View Certificate](./web-development/HackerRank_CSS_Certification.pdf)
+📄 **Certificate:** [View Certificate](./HackerRank_CSS_Certification.pdf)
 
 ---
 
@@ -173,7 +173,7 @@ Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating f
 * Do's and Don'ts of Presenting a Presentation
 * Handling Questions Successfully
 
-📄 **Certificate:** [View Certificate](./professional-skills/TCS_iON_Presentation_Skills_Course.pdf)
+📄 **Certificate:** [View Certificate](./TCS_iON_Presentation_Skills_Course.pdf)
 
 ---
 
@@ -187,6 +187,7 @@ Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating f
 **Duration:** 01 June 2025 – 15 July 2025
 **Certificate Date:** 15 July 2025
 **Location:** Ichalkaranji, Maharashtra
+**Category:** Internship
 
 #### Internship
 
@@ -194,7 +195,7 @@ Successfully completed an **Industrial Training Internship in Data Science & Art
 
 The internship provided practical exposure to **Data Science, Artificial Intelligence, technical learning, and professional development**.
 
-📄 **Certificate:** [View Internship Certificate](./internships/RacksonsIT_Data_Science_AI_Internship_Completion_Certificate.pdf)
+📄 **Certificate:** [View Certificate](./RacksonsIT_Data_Science_AI_Internship_Completion_Certificate.pdf)
 
 ---
 
@@ -205,6 +206,7 @@ The internship provided practical exposure to **Data Science, Artificial Intelli
 **Duration:** 12 June 2023 – 21 July 2023
 **Certificate Date:** 21 July 2023
 **Location:** Kolhapur, Maharashtra
+**Category:** Internship
 
 #### Internship
 
@@ -212,7 +214,7 @@ Successfully completed an internship working and learning in **Python and Machin
 
 During the internship, demonstrated **punctuality, dedication, strong learning ability, and enthusiasm for acquiring technical knowledge**.
 
-📄 **Certificate:** [View Internship Certificate](./internships/iGAP_Technologies_Python_Machine_Learning_Internship.pdf)
+📄 **Certificate:** [View Certificate](./iGAP_Technologies_Python_Machine_Learning_Internship.pdf)
 
 ---
 
@@ -226,6 +228,7 @@ During the internship, demonstrated **punctuality, dedication, strong learning a
 **Issue:** 03
 **Publication:** March 2024
 **Paper ID:** IRJMETS60300060774
+**Certificate Reference:** IRJMETS/Certificate/Volume 06/Issue 03/60300060774
 **Certificate Date:** 16 March 2024
 **e-ISSN:** 2582-5208
 **Category:** Research Publication
@@ -234,7 +237,7 @@ During the internship, demonstrated **punctuality, dedication, strong learning a
 
 Published the research paper **"AI Healthcare Chatbot Guidance Application"** in the peer-reviewed, open-access IRJMETS journal.
 
-📄 **Publication Certificate:** [View Certificate](./publications/IRJMETS_AI_Healthcare_Chatbot_Guidance_Application_Publication.pdf)
+📄 **Publication Certificate:** [View Certificate](./IRJMETS_AI_Healthcare_Chatbot_Guidance_Application_Publication.pdf)
 
 ---
 
@@ -246,6 +249,7 @@ Published the research paper **"AI Healthcare Chatbot Guidance Application"** in
 **Issue:** 10
 **Publication:** October 2023
 **Paper ID:** IRJMETS51000032036
+**Certificate Reference:** IRJMETS/Certificate/Volume 05/Issue 10/51000032036
 **Certificate Date:** 17 October 2023
 **e-ISSN:** 2582-5208
 **Category:** Research Publication
@@ -254,7 +258,7 @@ Published the research paper **"AI Healthcare Chatbot Guidance Application"** in
 
 Published the research paper **"A Review of AI Healthcare Guidance Chatbot"** in the peer-reviewed, open-access IRJMETS journal.
 
-📄 **Publication Certificate:** [View Certificate](./publications/IRJMETS_A_Review_of_AI_Healthcare_Guidance_Chatbot_Publication.pdf)
+📄 **Publication Certificate:** [View Certificate](./IRJMETS_A_Review_of_AI_Healthcare_Guidance_Chatbot_Publication.pdf)
 
 ---
 
