@@ -144,7 +144,6 @@ Successfully participated in the **Power BI & Business Intelligence Workshop** c
 - Data Analysis
 
 📄 **Certificate:** [View Certificate](./Satish_Dhawale_30_Day_SQL_Micro_Course.pdf)
-
 ---
 
 ## ☕ Java
