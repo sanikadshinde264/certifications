@@ -4,7 +4,7 @@ Welcome to my **Certifications & Professional Achievements Repository**!
 
 This repository contains certificates and credentials that I have earned through **online courses, training programs, job simulations, internships, research publications, and professional learning**.
 
-These achievements reflect my continuous learning and interest in **Data Analytics, Data Science, Machine Learning, SQL, Power BI, Java, Web Development, Artificial Intelligence, and Software Development**.
+These achievements reflect my continuous learning and interest in **Data Analytics, Data Science, Machine Learning, SQL, Power BI, Business Intelligence, Java, Web Development, Artificial Intelligence, and Software Development**.
 
 ---
 
@@ -14,8 +14,9 @@ These achievements reflect my continuous learning and interest in **Data Analyti
 
 **Computer Science & Engineering Student | Python Developer | Data Analytics Enthusiast | Software Developer**
 
-**Skills:**
-Python • Java • SQL • Data Analytics • Machine Learning • Power BI • Web Development
+### Skills
+
+**Python • Java • SQL • Data Analytics • Machine Learning • Power BI • Business Intelligence • Web Development**
 
 ---
 
@@ -32,12 +33,12 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 #### Skills & Topics
 
-* Data Analytics
-* Data Cleaning
-* Data Preprocessing
-* Data Visualization
-* Pattern and Trend Analysis
-* Data-Driven Decision Making
+- Data Analytics
+- Data Cleaning
+- Data Preprocessing
+- Data Visualization
+- Pattern and Trend Analysis
+- Data-Driven Decision Making
 
 📄 **Certificate:** [View Certificate](./NoviTech_30_Days_MasterClass_Data_Analytics.pdf)
 
@@ -52,17 +53,19 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 #### Practical Tasks
 
-* Data Analysis
-* Forensic Technology
-* Data Interpretation
-* Business-Oriented Problem Solving
-* Data-Driven Analysis
+- Data Analysis
+- Forensic Technology
+- Data Interpretation
+- Business-Oriented Problem Solving
+- Data-Driven Analysis
 
 📄 **Certificate:** [View Certificate](./Deloitte_Forage_Data_Analytics_Job_Simulation.pdf)
 
 ---
 
-### 📊 Basics of Microsoft Power BI
+## 📊 Power BI & Business Intelligence
+
+### Basics of Microsoft Power BI
 
 **Provider:** UniAthena in partnership with Cambridge International Qualifications, UK<br>
 **Date:** 22 March 2025<br>
@@ -72,7 +75,7 @@ Python • Java • SQL • Data Analytics • Machine Learning • Power BI •
 
 #### Course
 
-Successfully completed the **Basics of Microsoft Power BI** course, developing foundational knowledge of Power BI and business intelligence.
+Successfully completed the **Basics of Microsoft Power BI** course, developing foundational knowledge of **Power BI and Business Intelligence**.
 
 📄 **Certificate:** [View Certificate](./UniAthena_Basics_of_Microsoft_Power_BI.pdf)
 
@@ -87,11 +90,12 @@ Successfully completed the **Basics of Microsoft Power BI** course, developing f
 
 #### Course
 
-Successfully completed the **30-Days Power BI Micro Course**, focused on developing practical knowledge of Power BI and data analytics.
+Successfully completed the **30-Days Power BI Micro Course**, focused on developing practical knowledge of **Power BI, data visualization, and data analytics**.
 
 📄 **Certificate:** [View Certificate](./Satish_Dhawale_30_Days_Power_BI_Micro_Course.pdf)
 
 ---
+
 ### 📊 Power BI & Business Intelligence Workshop
 
 **Organization:** DV Analytics<br>
@@ -105,15 +109,15 @@ Successfully participated in the **Power BI & Business Intelligence Workshop** c
 
 #### Skills & Topics
 
-* Power BI Desktop and Power BI Service
-* Data Import and Data Transformation
-* Data Cleaning using Power Query
-* DAX Functions
-* Measures
-* Calculated Columns
-* KPIs
-* Real-Time Business Dashboard Development
-* Dashboard Performance Optimization
+- Power BI Desktop and Power BI Service
+- Data Import and Data Transformation
+- Data Cleaning using Power Query
+- DAX Functions
+- Measures
+- Calculated Columns
+- KPIs
+- Real-Time Business Dashboard Development
+- Dashboard Performance Optimization
 
 📄 **Certificate:** [View Certificate](./Power_BI_and_Business_Intelligence_Workshop.pdf)
 
@@ -129,17 +133,17 @@ Successfully participated in the **Power BI & Business Intelligence Workshop** c
 
 #### Skills & Topics
 
-* SQL Querying
-* SELECT
-* WHERE
-* JOIN
-* GROUP BY
-* ORDER BY
-* Aggregate Functions
-* Subqueries
-* Data Analysis
+- SQL Querying
+- SELECT
+- WHERE
+- JOIN
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Subqueries
+- Data Analysis
 
-📄 **Certificate:** [View Certificate](./Statish_Dhawale_30_Day_SQL_Micro_Course.pdf)
+📄 **Certificate:** [View Certificate](./Satish_Dhawale_30_Day_SQL_Micro_Course.pdf)
 
 ---
 
@@ -155,7 +159,7 @@ Successfully participated in the **Power BI & Business Intelligence Workshop** c
 
 #### Achievement
 
-Successfully cleared the **Java (Basic)** skill assessment on HackerRank, demonstrating foundational knowledge of Java programming and problem-solving.
+Successfully cleared the **Java (Basic)** skill assessment on HackerRank, demonstrating foundational knowledge of **Java programming and problem-solving**.
 
 📄 **Certificate:** [View Certificate](./HackerRank_Java_Basic_Certification.pdf)
 
@@ -173,7 +177,7 @@ Successfully cleared the **Java (Basic)** skill assessment on HackerRank, demons
 
 #### Achievement
 
-Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating foundational knowledge of CSS and web page styling.
+Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating foundational knowledge of **CSS and web page styling**.
 
 📄 **Certificate:** [View Certificate](./HackerRank_CSS_Certification.pdf)
 
@@ -192,12 +196,12 @@ Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating f
 
 #### Topics Covered
 
-* What is a Presentation?
-* The 5 Ws for a Presentation
-* Preparing Effective Slides
-* Do's and Don'ts of Creating a Presentation
-* Do's and Don'ts of Presenting a Presentation
-* Handling Questions Successfully
+- What is a Presentation?
+- The 5 Ws for a Presentation
+- Preparing Effective Slides
+- Do's and Don'ts of Creating a Presentation
+- Do's and Don'ts of Presenting a Presentation
+- Handling Questions Successfully
 
 📄 **Certificate:** [View Certificate](./TCS_iON_Presentation_Skills_Course.pdf)
 
@@ -219,7 +223,7 @@ Successfully cleared the **CSS** skill assessment on HackerRank, demonstrating f
 
 Successfully completed an **Industrial Training Internship in Data Science & Artificial Intelligence**.
 
-The internship provided practical exposure to **Data Science, Artificial Intelligence, technical learning, and professional development**.
+The internship provided practical exposure to **Data Science, Artificial Intelligence, technical learning, data analysis, and professional development**.
 
 📄 **Certificate:** [View Certificate](./RacksonsIT_Data_Science_AI_Internship_Completion_Certificate.pdf)
 
@@ -236,9 +240,9 @@ The internship provided practical exposure to **Data Science, Artificial Intelli
 
 #### Internship
 
-Successfully completed an internship working and learning in **Python and Machine Learning**.
+Successfully completed an internship focused on **Python and Machine Learning**.
 
-During the internship, demonstrated **punctuality, dedication, strong learning ability, and enthusiasm for acquiring technical knowledge**.
+During the internship, gained practical exposure to **Python, Flask, Bootstrap, HTML, CSS, JavaScript, data preprocessing, and testing**.
 
 📄 **Certificate:** [View Certificate](./iGAP_Technologies_Python_Machine_Learning_Internship.pdf)
 
@@ -261,9 +265,10 @@ During the internship, demonstrated **punctuality, dedication, strong learning a
 
 ### Publication
 
-Published the research paper **"AI Healthcare Chatbot Guidance Application"** in the peer-reviewed, open-access IRJMETS journal.
+Published the research paper **"AI Healthcare Chatbot Guidance Application"** in the IRJMETS journal.
 
 📄 **Research Paper:** [View Research Paper](https://github.com/sanikadshinde264/Publications/blob/main/AI-Healthcare-Chatbot-Guidance-Application/Research%20Paper-AI-Healthcare-Chatbot-Guidance-Application.pdf)
+
 ---
 
 ## 📄 A Review of AI Healthcare Guidance Chatbot
@@ -281,34 +286,35 @@ Published the research paper **"AI Healthcare Chatbot Guidance Application"** in
 
 ### Publication
 
-Published the research paper **"A Review of AI Healthcare Guidance Chatbot"** in the peer-reviewed, open-access IRJMETS journal.
+Published the research paper **"A Review of AI Healthcare Guidance Chatbot"** in the IRJMETS journal.
 
 📄 **Research Paper:** [View Research Paper](https://github.com/sanikadshinde264/Publications/blob/main/AI-Healthcare-Chatbot-Guidance-Application/Review%20Paper-AI-Healthcare-Chatbot-Guidance-Application.pdf)
+
 ---
 
 # 📌 Certification & Achievement Timeline
 
-| Sr. No. | Date                      | Achievement                                | Organization      | Category            |
-| ------: | ------------------------- | ------------------------------------------ | ----------------- | ------------------- |
-|       1 | 12 Jun 2023 – 21 Jul 2023 | Python & Machine Learning Internship       | iGAP Technologies | Internship          |
-|       2 | 19 Aug 2023               | Java (Basic)                               | HackerRank        | Java                |
-|       3 | 19 Aug 2023               | CSS                                        | HackerRank        | Web Development     |
-|       4 | 14 Aug 2023 – 23 Aug 2023 | Presentation Skills Course                 | TCS iON           | Professional Skills |
-|       5 | 17 Oct 2023               | A Review of AI Healthcare Guidance Chatbot | IRJMETS           | Publication         |
-|       6 | 16 Mar 2024               | AI Healthcare Chatbot Guidance Application | IRJMETS           | Publication         |
-|       7 | 22 Mar 2025               | Basics of Microsoft Power BI               | UniAthena         | Power BI            |
-|       8 | 21 Apr 2025 – 21 May 2025 | 30-Day SQL Micro Course                    | Satish Dhawale    | SQL                 |
-|       9 | 19 May 2025               | 30-Days Power BI Micro Course              | Satish Dhawale    | Power BI            |
-|      10 | 01 Jun 2025 – 15 Jul 2025 | Data Science & AI Internship               | RacksonsIT        | Internship          |
-|      11 | 21 Jan 2026               | Data Analytics Job Simulation              | Deloitte / Forage | Data Analytics      |
-|      12 | 08 Jun 2026 – 16 Jul 2026 | 30 Days MasterClass in Data Analytics      | NoviTech          | Data Analytics      |
-|      13 | 05 Sep 2026               | Power BI & Business Intelligence Workshop  | DV Analytics      | Power BI / Workshop |       
+| Sr. No. | Date | Achievement | Organization | Category |
+|--------:|------|-------------|--------------|----------|
+| 1 | 12 Jun 2023 – 21 Jul 2023 | Python & Machine Learning Internship | iGAP Technologies | Internship |
+| 2 | 19 Aug 2023 | Java (Basic) | HackerRank | Java |
+| 3 | 19 Aug 2023 | CSS | HackerRank | Web Development |
+| 4 | 14 Aug 2023 – 23 Aug 2023 | Presentation Skills Course | TCS iON | Professional Skills |
+| 5 | 17 Oct 2023 | A Review of AI Healthcare Guidance Chatbot | IRJMETS | Publication |
+| 6 | 16 Mar 2024 | AI Healthcare Chatbot Guidance Application | IRJMETS | Publication |
+| 7 | 22 Mar 2025 | Basics of Microsoft Power BI | UniAthena | Power BI |
+| 8 | 21 Apr 2025 – 21 May 2025 | 30-Day SQL Micro Course | Satish Dhawale | SQL |
+| 9 | 19 May 2025 | 30-Days Power BI Micro Course | Satish Dhawale | Power BI |
+| 10 | 01 Jun 2025 – 15 Jul 2025 | Data Science & AI Internship | RacksonsIT | Internship |
+| 11 | 21 Jan 2026 | Data Analytics Job Simulation | Deloitte / Forage | Data Analytics |
+| 12 | 08 Jun 2026 – 16 Jul 2026 | 30 Days MasterClass in Data Analytics | NoviTech | Data Analytics |
+| 13 | 05 Sep 2026 | Power BI & Business Intelligence Workshop | DV Analytics | Power BI / Workshop |
 
 ---
 
 # 🎯 Focus Areas
 
-**Data Analytics • Data Science • Machine Learning • Python • Java • SQL • Power BI • Data Visualization • Data Cleaning • Data Preprocessing • Web Development • Artificial Intelligence • Business Analysis • Problem Solving**
+**Data Analytics • Data Science • Machine Learning • Python • Java • SQL • Power BI • Business Intelligence • Data Visualization • Data Cleaning • Data Preprocessing • Web Development • Artificial Intelligence • Business Analysis • Problem Solving**
 
 ---
 
