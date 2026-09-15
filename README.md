@@ -92,6 +92,32 @@ Successfully completed the **30-Days Power BI Micro Course**, focused on develop
 📄 **Certificate:** [View Certificate](./Satish_Dhawale_30_Days_Power_BI_Micro_Course.pdf)
 
 ---
+### 📊 Power BI & Business Intelligence Workshop
+
+**Organization:** DV Analytics<br>
+**Workshop:** Power BI & Business Intelligence<br>
+**Date:** 05 September 2026<br>
+**Category:** Power BI & Business Intelligence
+
+#### Workshop
+
+Successfully participated in the **Power BI & Business Intelligence Workshop** conducted by **DV Analytics**, gaining hands-on exposure to business intelligence and dashboard development using Microsoft Power BI.
+
+#### Skills & Topics
+
+* Power BI Desktop and Power BI Service
+* Data Import and Data Transformation
+* Data Cleaning using Power Query
+* DAX Functions
+* Measures
+* Calculated Columns
+* KPIs
+* Real-Time Business Dashboard Development
+* Dashboard Performance Optimization
+
+📄 **Certificate:** [View Certificate](./Power_BI_and_Business_Intelligence_Workshop.pdf)
+
+---
 
 ## 🗄️ SQL & Database
 
@@ -278,6 +304,7 @@ Published the research paper **"A Review of AI Healthcare Guidance Chatbot"** in
 |      10 | 01 Jun 2025 – 15 Jul 2025 | Data Science & AI Internship               | RacksonsIT        | Internship          |
 |      11 | 21 Jan 2026               | Data Analytics Job Simulation              | Deloitte / Forage | Data Analytics      |
 |      12 | 08 Jun 2026 – 16 Jul 2026 | 30 Days MasterClass in Data Analytics      | NoviTech          | Data Analytics      |
+|      13 | 05 Sep 2026               | Power BI & Business Intelligence Workshop  | DV Analytics      | Power BI / Workshop |       
 
 ---
 
