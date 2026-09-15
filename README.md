@@ -263,8 +263,7 @@ During the internship, demonstrated **punctuality, dedication, strong learning a
 
 Published the research paper **"AI Healthcare Chatbot Guidance Application"** in the peer-reviewed, open-access IRJMETS journal.
 
-📄 **Publication Certificate:** [View Certificate](./IRJMETS_AI_Healthcare_Chatbot_Guidance_Application_Publication.pdf)
-
+📄 **Research Paper:** [View Research Paper](https://github.com/sanikadshinde264/Publications/blob/main/AI-Healthcare-Chatbot-Guidance-Application/Research%20Paper-AI-Healthcare-Chatbot-Guidance-Application.pdf)
 ---
 
 ## 📄 A Review of AI Healthcare Guidance Chatbot
@@ -284,8 +283,7 @@ Published the research paper **"AI Healthcare Chatbot Guidance Application"** in
 
 Published the research paper **"A Review of AI Healthcare Guidance Chatbot"** in the peer-reviewed, open-access IRJMETS journal.
 
-📄 **Publication Certificate:** [View Certificate](./IRJMETS_A_Review_of_AI_Healthcare_Guidance_Chatbot_Publication.pdf)
-
+📄 **Research Paper:** [View Research Paper](https://github.com/sanikadshinde264/Publications/blob/main/AI-Healthcare-Chatbot-Guidance-Application/Review%20Paper-AI-Healthcare-Chatbot-Guidance-Application.pdf)
 ---
 
 # 📌 Certification & Achievement Timeline
