@@ -267,8 +267,7 @@ During the internship, gained practical exposure to **Python, Flask, Bootstrap, 
 
 Published the research paper **"AI Healthcare Chatbot Guidance Application"** in the IRJMETS journal.
 
-📄 **View Research Paper:**  
-[IRJMETS AI Healthcare Chatbot Guidance Application](./IRJMETS_AI_Healthcare_Chatbot_Guidance_Application_Publication.pdf)
+📄 **View Research Paper:** [View Certificate](./IRJMETS_AI_Healthcare_Chatbot_Guidance_Application_Publication.pdf)
 
 ---
 
@@ -289,8 +288,7 @@ Published the research paper **"AI Healthcare Chatbot Guidance Application"** in
 
 Published the research paper **"A Review of AI Healthcare Guidance Chatbot"** in the IRJMETS journal.
 
-📄 **View Review Paper:**  
-[IRJMETS A Review of AI Healthcare Guidance Chatbot](./IRJMETS_A_Review_of_AI_Healthcare_Guidance_Chatbot_Publication.pdf)
+📄 **View Review Paper:** [View Certificate](./IRJMETS_A_Review_of_AI_Healthcare_Guidance_Chatbot_Publication.pdf)
 
 ---
 
