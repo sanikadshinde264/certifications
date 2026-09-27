@@ -328,7 +328,7 @@ It demonstrates my commitment to **continuous learning, technical skill developm
 
 ## 🔗 Connect With Me
 
-📧 **Email:** [sanikadshinde264@gmail.com](mailto:sanikadshinde264@gmail.com)<br>
+📧 **Email:** [sanikadeepakshinde@gmail.com](mailto:sanikadeepakshinde@gmail.com)<br>
 💼 **LinkedIn:** [linkedin.com/in/sanikadshinde264](https://linkedin.com/in/sanikadshinde264)<br>
 💻 **GitHub:** [github.com/sanikadshinde264](https://github.com/sanikadshinde264)
 
